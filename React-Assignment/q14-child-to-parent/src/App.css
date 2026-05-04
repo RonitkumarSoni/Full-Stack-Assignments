@@ -1,0 +1,101 @@
+.app-container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.question-box {
+  border: 1px solid #cccccc;
+  padding: 20px;
+  border-radius: 6px;
+  background-color: #ffffff;
+}
+
+.question-box h2 {
+  margin-top: 0;
+}
+
+.simple-list {
+  padding-left: 20px;
+}
+
+.simple-list li {
+  margin-bottom: 10px;
+}
+
+.row-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+button {
+  padding: 8px 12px;
+  border: 1px solid #999999;
+  background-color: #f4f4f4;
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid #999999;
+  width: 100%;
+  max-width: 300px;
+}
+
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-box {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 6px;
+  width: 300px;
+}
+
+.accordion-item {
+  border: 1px solid #cccccc;
+  margin-bottom: 10px;
+}
+
+.accordion-title {
+  width: 100%;
+  text-align: left;
+  border: none;
+  background-color: #eeeeee;
+}
+
+.accordion-content {
+  padding: 10px;
+}
+
+.nav-links {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+}

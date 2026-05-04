@@ -1,0 +1,12 @@
+Question: Return Proper Status Codes
+Run: npm start
+Postman Success:
+POST http://localhost:5013/api/user
+Body:
+{ "name": "Ronit" }
+Expected: 200 status
+Postman Error:
+POST http://localhost:5013/api/user
+Body:
+{}
+Expected: 400 status

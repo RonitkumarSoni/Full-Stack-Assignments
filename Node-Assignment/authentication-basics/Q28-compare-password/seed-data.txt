@@ -1,0 +1,9 @@
+Question: Compare Password
+Run: npm start
+Step 1: Generate hash from Q27
+Step 2 Postman:
+POST http://localhost:5028/compare-password
+Body:
+{ "password": "123456", "hashedPassword": "paste_hash_from_q27_here" }
+Expected:
+{ "isMatch": true }

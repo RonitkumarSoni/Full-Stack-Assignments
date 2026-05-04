@@ -1,0 +1,5 @@
+Question: Query Params Handling
+Run: npm start
+Postman:
+GET http://localhost:5000/search?name=Ronit
+Expected: returns name Ronit

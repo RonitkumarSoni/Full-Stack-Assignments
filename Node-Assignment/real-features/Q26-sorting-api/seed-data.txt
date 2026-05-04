@@ -1,0 +1,9 @@
+Question: Sorting API
+Run: npm start
+Seed Data Already In Code:
+Ronit age 22, Amit age 20, Priya age 25
+Postman Asc:
+GET http://localhost:5026/users?order=asc
+Postman Desc:
+GET http://localhost:5026/users?order=desc
+Expected: sorted by age

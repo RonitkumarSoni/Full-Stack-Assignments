@@ -1,0 +1,5 @@
+Question: Try-Catch Error Handling
+Run: npm start
+Postman:
+GET http://localhost:5000/users
+Expected: success response or handled error response from catch block

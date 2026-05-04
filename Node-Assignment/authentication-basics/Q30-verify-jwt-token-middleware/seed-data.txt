@@ -1,0 +1,8 @@
+Question: Verify JWT Token Middleware
+Run: npm start
+Step 1: Generate token from Q29
+Step 2 Postman:
+GET http://localhost:5000/profile
+Headers:
+Authorization: Bearer paste_token_here
+Expected: protected route response

@@ -1,0 +1,7 @@
+Question: Get All Users
+Run: npm start
+Seed Data Already In Code:
+[{ "id": 1, "name": "Ronit" }, { "id": 2, "name": "Amit" }, { "id": 3, "name": "Priya" }]
+Postman:
+GET http://localhost:5015/users
+Expected: returns all users

@@ -1,0 +1,7 @@
+Question: Generate JWT Token
+Run: npm start
+Postman:
+POST http://localhost:5029/login
+Body:
+{ "email": "test@gmail.com" }
+Expected: JWT token
