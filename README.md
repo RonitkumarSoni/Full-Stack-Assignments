@@ -4,6 +4,11 @@ This repository contains the completed code work for an advanced full stack codi
 
 The assignment was completed as 30 short coding walkthroughs, with each solution built as a separate question folder for clean review, recording, and viva preparation.
 
+## Author Links
+
+- YouTube: [Ronit Soni](https://www.youtube.com/@RonitSoni-i)
+- LinkedIn: [Ronit Soni](https://www.linkedin.com/in/ronit-sonii/)
+
 ## Project Status
 
 | Area | Completed Videos | Focus |
