@@ -1,0 +1,5 @@
+Question: Async API using async/await
+Run: npm start
+Postman:
+GET http://localhost:5000/users
+Expected: async response after await operation

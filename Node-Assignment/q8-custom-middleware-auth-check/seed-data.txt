@@ -1,0 +1,7 @@
+Question: Custom Auth Middleware
+Run: npm start
+Postman Success:
+GET http://localhost:5000/profile?token=123
+Postman Error:
+GET http://localhost:5000/profile
+Expected Error: Unauthorized or invalid token

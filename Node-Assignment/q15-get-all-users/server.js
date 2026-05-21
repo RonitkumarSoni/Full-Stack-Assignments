@@ -1,17 +1,23 @@
-const express = require("express");
+const express = require("express")
 
 const app = express();
 
 const PORT = 5000;
 
-app.delete("/user/delete",(re,res)=>{
+const users = [
+    {id:1, name:"ROnit"},
+    {id:2, name:"Aman"},
+    {id:3, name:"Rahul"},
+]
+
+app.get("/users",(req,res)=>{
     res.status(200).json({
         sucess:true,
-        message:"User Deleted sucessfully"
+        data:users
     })
 })
 
 app.listen(PORT,()=>{
     console.log(`Server is running on Port ${PORT}`);
     
-});
+})

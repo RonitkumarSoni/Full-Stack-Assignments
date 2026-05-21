@@ -1,5 +1,5 @@
 {
-  "name": "q5-delete-api",
+  "name": "q6-pagination",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1",
+    "mongoose": "^9.6.2",
     "nodemon": "^3.1.14"
   }
 }

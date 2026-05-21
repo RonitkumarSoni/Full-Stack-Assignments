@@ -1,0 +1,5 @@
+Question: Time Logger Middleware
+Run: npm start
+Postman:
+GET http://localhost:5000/
+Expected: Response in Postman and current timestamp log in terminal

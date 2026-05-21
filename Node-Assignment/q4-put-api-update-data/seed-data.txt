@@ -1,0 +1,8 @@
+Question: PUT API Update Data
+Run: npm start
+Postman:
+PUT http://localhost:5000/api/user
+Headers: Content-Type: application/json
+Body:
+{ "name": "Rahul" }
+Expected: dummy user name updated to Rahul
