@@ -1,9 +1,0 @@
-Question: POST API Read Body
-Run: npm start
-Postman:
-POST http://localhost:5000/api/user
-Headers: Content-Type: application/json
-Body:
-{ "name": "Ronit" }
-Expected Response:
-Hello Ronit

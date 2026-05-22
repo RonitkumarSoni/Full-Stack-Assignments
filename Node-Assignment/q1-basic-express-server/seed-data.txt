@@ -1,6 +1,0 @@
-Question: Create Basic Express Server
-Run: npm start
-Postman:
-GET http://localhost:5000/
-Expected Response:
-Server running

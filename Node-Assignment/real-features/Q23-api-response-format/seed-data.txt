@@ -1,6 +1,0 @@
-Question: Basic API Response Format
-Run: npm start
-Postman:
-GET http://localhost:5023/api/users
-Expected JSON format:
-{ "success": true, "data": [...], "message": "Users fetched successfully" }

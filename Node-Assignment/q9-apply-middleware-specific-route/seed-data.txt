@@ -1,5 +1,0 @@
-Question: Apply Middleware to Specific Route
-Run: npm start
-Postman:
-GET http://localhost:5000/admin
-Expected: middleware runs only for /admin route

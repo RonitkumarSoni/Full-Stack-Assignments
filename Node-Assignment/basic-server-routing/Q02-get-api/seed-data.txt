@@ -1,6 +1,0 @@
-Question: GET API Static Response
-Run: npm start
-Postman:
-GET http://localhost:5002/api/message
-Expected JSON:
-{ "message": "Hello World" }

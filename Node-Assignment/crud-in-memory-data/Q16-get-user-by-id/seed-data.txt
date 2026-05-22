@@ -1,7 +1,0 @@
-Question: Get User by ID
-Run: npm start
-Seed Data Already In Code:
-[{ "id": 1, "name": "Ronit" }, { "id": 2, "name": "Amit" }]
-Postman:
-GET http://localhost:5016/users/1
-Expected: returns Ronit

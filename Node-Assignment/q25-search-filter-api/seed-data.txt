@@ -1,6 +1,0 @@
-Question: Search Filter API
-Run: npm start
-Postman:
-GET http://localhost:5000/users?name=ron
-Expected: users matching ron
-Sample Users: Ronit, Amit, Priya

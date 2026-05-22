@@ -1,7 +1,0 @@
-Question: Delete User by ID
-Run: npm start
-Seed Data Already In Code:
-[{ "id": 1, "name": "Ronit" }, { "id": 2, "name": "Amit" }]
-Postman:
-DELETE http://localhost:5018/users/1
-Expected: user 1 removed from array

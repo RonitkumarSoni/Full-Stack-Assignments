@@ -1,5 +1,0 @@
-Question: Global Error Handler
-Run: npm start
-Postman:
-GET http://localhost:5000/error
-Expected: error handled by global error middleware

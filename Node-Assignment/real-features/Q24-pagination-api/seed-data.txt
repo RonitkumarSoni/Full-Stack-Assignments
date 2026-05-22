@@ -1,6 +1,0 @@
-Question: Pagination API
-Run: npm start
-Postman:
-GET http://localhost:5000/users?page=1&limit=2
-Expected: first 2 users with page and limit
-Sample Users: Ronit, Amit, Priya, Neha, Rahul

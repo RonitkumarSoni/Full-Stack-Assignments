@@ -1,7 +1,0 @@
-Question: Environment Variables dotenv
-Run: npm start
-Create .env in this folder:
-PORT=5022
-Postman:
-GET http://localhost:5022/
-Expected: server uses PORT from .env

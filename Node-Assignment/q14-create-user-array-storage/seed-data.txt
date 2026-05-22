@@ -1,7 +1,0 @@
-Question: Create User Array Storage
-Run: npm start
-Postman:
-POST http://localhost:5000/users
-Body:
-{ "id": 1, "name": "Ronit" }
-Expected: user added in array

@@ -1,7 +1,0 @@
-Question: Hash Password using bcrypt
-Run: npm start
-Postman:
-POST http://localhost:5000/hash-password
-Body:
-{ "password": "123456" }
-Expected: hashed password string
